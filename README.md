@@ -128,3 +128,28 @@ cyber-nexus-cyborg-landing-page/
 ├── style.css       # Styling, responsive layout & animations
 ├── script.js       # Interactions & dynamic effects
 └── README.md       # Project documentation
+
+
+----
+👨‍💻 Author
+Pranav Sharma
+
+B.Tech Computer Science (AI/ML)
+
+Interested in:
+
+Artificial Intelligence • Machine Learning • Generative AI • Software Engineering
+
+GitHub:
+https://github.com/Pranav123221
+
+LinkedIn:
+https://www.linkedin.com/in/pranav-sharma-333b67338/
+
+
+----
+📜 License
+
+This project was created as a design and development project for the Techfest College Ambassador program.
+
+The concept and implementation are intended for educational, portfolio, and demonstration purposes.
