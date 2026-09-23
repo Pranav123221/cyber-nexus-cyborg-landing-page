@@ -35,9 +35,39 @@ As technology becomes increasingly integrated with human life, interfaces are ev
 
 CYBER//NEXUS represents this idea through three major layers:
 
+## 🖥️ Preview
+
+<p align="center">
+  <<img width="1828" height="886" alt="Screenshot 2026-09-23 183038" src="https://github.com/user-attachments/assets/b69fcde5-a2fa-40a8-a5e6-6b88573d5311" />
+
+</p>
+
+
 **PERCEIVE → THINK → AUGMENT**
 
 The interface visualizes this relationship between humans and machines through system modules, neural signals, diagnostics, and an interactive protocol layer.
+
+
+---
+
+
+
+<p align="center">
+  <<img width="1816" height="921" alt="Screenshot 2026-09-23 183050" src="https://github.com/user-attachments/assets/736b9995-6c55-45ef-91e0-f773453c14e8" />
+
+</p>
+
+
+-----
+
+
+
+
+<p align="center">
+  <img width="1802" height="926" alt="Screenshot 2026-09-23 183102" src="https://github.com/user-attachments/assets/b85f4967-c2cb-42a0-9406-f509199ee4a5" />
+
+</p>
+
 
 ---
 
