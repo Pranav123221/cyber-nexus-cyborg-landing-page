@@ -1,0 +1,3 @@
+function go(id){document.getElementById(id)?.scrollIntoView({behavior:"smooth"});}
+const wave=document.getElementById("wave");for(let i=0;i<80;i++){let b=document.createElement("i");b.className="bar";b.style.height=(15+Math.random()*80)+"%";b.style.animationDelay=(Math.random()*-.8)+"s";wave.appendChild(b)}
+function activate(){document.getElementById("terminal").textContent="root@nexus:~$ activate\n> handshake accepted...\n> neural architecture: ONLINE\n> adaptive layer: ONLINE\n> protocol status: ACTIVE_";document.querySelector(".protocol").animate([{filter:"brightness(1)"},{filter:"brightness(1.5)"},{filter:"brightness(1)"}],{duration:700})}
